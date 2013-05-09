@@ -1,0 +1,33 @@
+/**********************************************************************
+ *<
+	PROJECT: Morph3D (Morphing modifier plugin for 3DSMax)
+
+	FILE: TODO.txt
+
+	DESCRIPTION: TODO List
+
+	CREATED BY: Benoît Leveau
+
+	HISTORY: 12/06/06
+
+ *>	Copyright (c) 2006, All Rights Reserved.
+ **********************************************************************/
+ 
+ // IMPORTANT
+ 
+ - 
+ - 
+ - 
+  
+ 
+ // TO FIX
+ 
+ -
+ -
+ -
+ 
+ // TO DO
+ 
+ -
+ -
+ -
